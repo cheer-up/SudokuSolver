@@ -4,9 +4,10 @@ C# console app for solving sudoku
 In bin/debug/ you can find example of input/output file
 
 Input
+
 640050012
 
-200000004
+200000004 
 
 003000500
 
